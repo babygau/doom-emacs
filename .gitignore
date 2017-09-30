@@ -1,9 +1,9 @@
+.DS_Store
 .local/
 .cask/
 var/
-/init.el
 
-# emacs tempfiles that shouldn't be there
+# Emacs tempfiles that shouldn't be there
 .mc-lists.el
 .org-id-locations
 .tern-port
@@ -14,13 +14,13 @@ tramp
 smex-items
 network-security.data
 
-# compiled files
+# Compiled files
 *.elc
 *.lib
 *.fas
 *.dat
 *.eld
 
-# transient files
+# Transient files
 *.cache-*
 *.log
